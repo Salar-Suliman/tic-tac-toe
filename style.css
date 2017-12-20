@@ -1,0 +1,22 @@
+body {
+	background-color: orange;
+}
+h1 {
+	text-align: center;
+	margin-left: -228px;
+}
+td
+{
+    width:150px;
+    height:150px;
+    border: solid 5px black;
+    text-align:center;
+    font-size:20pt;
+    text-align: center;
+}
+
+td:hover
+{
+    background-color: grey;
+    cursor:pointer;
+}
